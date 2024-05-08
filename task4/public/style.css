@@ -1,0 +1,155 @@
+.img1{
+    background-image: url(assets/desktop/image-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img2{
+    background-image: url(assets/desktop/image-interactive.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.com{
+    position: relative;
+}
+ .para1{
+    position: relative;
+}
+.para2{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+} 
+.img11{
+    background-image: url(assets/desktop/image-deep-earth.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.info{
+    position: absolute;
+    bottom: 0;
+}
+
+.img12{
+    background-image: url(assets/desktop/image-night-arcade.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img13{
+    background-image: url(assets/desktop/image-soccer-team.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img14{
+    background-image: url(assets/desktop/image-grid.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img15{
+    background-image: url(assets/desktop/image-from-above.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img16{
+    background-image: url(assets/desktop/image-pocket-borealis.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img17{
+    background-image: url(assets/desktop/image-curiosity.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img18{
+    background-image: url(assets/desktop/image-fisheye.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+    position: relative;
+}
+.img21{
+    background-image: url(assets/mobile/image-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:900px ;
+ 
+    
+
+}
+.img22{
+    background-image: url(assets/mobile/image-interactive.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+}
+.img111{
+    background-image: url(assets/mobile/image-deep-earth.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img122{
+    background-image: url(assets/mobile/image-night-arcade.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img133{
+    background-image: url(assets/mobile/image-soccer-team.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img144{
+    background-image: url(assets/mobile/image-grid.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img155{
+    background-image: url(assets/mobile/image-from-above.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img166{
+    background-image: url(assets/mobile/image-pocket-borealis.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img177{
+    background-image: url(assets/mobile/image-curiosity.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}
+.img188{
+    background-image: url(assets/mobile/image-fisheye.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 250px;
+    position: relative;
+}

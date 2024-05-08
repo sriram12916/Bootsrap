@@ -1,0 +1,19 @@
+.form-label{
+  font-weight: 700;
+}
+.form-select{
+    font-weight: 700;
+}
+.form-email{
+    font-weight: 700;
+}
+.check-box{
+    font-weight: 700;
+}
+
+
+@media(max-width:768px){
+    .btn{
+        margin-top: 3%;
+    }
+}
